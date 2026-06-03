@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+pymc
+arviz
+xarray
+netCDF4
+geopandas
+shapely
+pyproj
+fiona
