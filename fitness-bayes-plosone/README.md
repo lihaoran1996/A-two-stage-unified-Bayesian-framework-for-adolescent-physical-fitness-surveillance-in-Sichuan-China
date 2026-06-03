@@ -24,6 +24,7 @@ fitness-bayes-plosone/
 │   ├── Fig_S1_ppc_density_table.csv
 │   ├── Fig_S2_factor_scores_cell_mean_table.csv
 │   ├── Fig_S2_factor_correlation_matrix.csv
+│   ├── cov_panel.csv
 │   └── health_data_with_factors.csv
 ├── traces/
 │   ├── trace_step2_力量.nc
@@ -59,6 +60,7 @@ Fig_2_factor_loadings_table.csv
 Fig_S1_ppc_density_table.csv
 Fig_S2_factor_scores_cell_mean_table.csv
 Fig_S2_factor_correlation_matrix.csv
+cov_panel.csv
 health_data_with_factors.csv
 ```
 
